@@ -1,8 +1,7 @@
 __pycache__/
 *.pyc
-data/
+data/cache/
 samples/
-*.db
 .streamlit/
 /tmp/
 *.log
