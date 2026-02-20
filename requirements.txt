@@ -1,0 +1,6 @@
+streamlit==1.44.1
+boto3==1.37.35
+PyMuPDF==1.23.7
+pillow==11.2.1
+pandas
+sqlalchemy
